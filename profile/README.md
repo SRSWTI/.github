@@ -71,10 +71,9 @@ our perspective on hardware-software optimization challenges in modern llm deplo
 
 - **website**: [www.srswti.com](https://www.srswti.com)
 - **location**: new york
-- **developer docs**: [docs.srswti.com](https://www.srswti.com)
 - **hugging face**: [@knowrohit07](https://huggingface.co/knowrohit07)
 - **github**: [@knowrohit](https://github.com/knowrohit)
-- **twitter**: [@srswti](https://www.srswti.com)
+- **twitter**: [@srswti_ai]([https://www.srswti.com](https://x.com/srswti_ai))
 
 ## join our waitlist
 
