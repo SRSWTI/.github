@@ -35,13 +35,6 @@ srswti-axis (ai explainable inference & search) is an industry-ready machine lea
 
 all datasets available on [hugging face](https://huggingface.co/knowrohit07)
 
-## research
-
-we contribute to frontier research in multimodal models, mobile ai, and advanced machine learning systems:
-
-- expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling
-- genieblue: integrating both linguistic and multimodal capabilities for large language models on mobile devices
-
 ## blog
 
 read our latest thoughts and research:
