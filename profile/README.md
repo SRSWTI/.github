@@ -8,8 +8,13 @@ srswti research labs is focused on pushing the boundaries of computing through o
 
 ## our pillars
 
-### research labs
-developing cutting-edge algorithms for retrieval and inference at unprecedented speeds.
+## products
+
+### [bodega os](https://www.srswti.com/bodega)
+our consumer-facing operating system bringing advanced ai capabilities to personal computing.
+
+### personal computer
+coming fall 2026
 
 ### open source initiative
 our open-source research has become foundational for countless projects worldwide, enabling innovation in ai, machine learning, and distributed systems.
@@ -37,23 +42,6 @@ srswti-axis (ai explainable inference & search) is an industry-ready machine lea
 
 all datasets available on [hugging face](https://huggingface.co/knowrohit07)
 
-### stem & reasoning
-- **[saraswati-stem](https://huggingface.co/datasets/knowrohit07/saraswati-stem)** (110k) - one of the first synthetically generated datasets (circa 2023) designed for reward model trainings for conversational agents, particularly in stem
-- **[know-saraswati-cot](https://huggingface.co/datasets/knowrohit07/know-saraswati-cot)** (150k) - trains and tests llms on logical and chain of thought reasoning. designed to be concise, with examples under 500 tokens, to mimic the quick yet deep reasoning of human thought
-- **[saraswati-nebula](https://huggingface.co/datasets/knowrohit07/saraswati-nebula)** (635k) - advanced reasoning dataset
-- **[know_cot](https://huggingface.co/datasets/knowrohit07/know_cot)** (74.8k) - chain of thought reasoning examples
-- **[know_logic](https://huggingface.co/datasets/knowrohit07/know_logic)** (34.2k) - logical reasoning dataset
-
-### mathematics & science
-- **[gptscience_maths_csml](https://huggingface.co/datasets/knowrohit07/GPTscience_maths_csml)** (149k) - science, mathematics, and computer science/machine learning dataset
-- **[arithmelogic](https://huggingface.co/datasets/knowrohit07/ArithmeLogic)** (28.2k) - arithmetic and logic problems
-
-### domain-specific
-- **[know_medical_dialogue_v2](https://huggingface.co/datasets/knowrohit07/know_medical_dialogue_v2)** (6.31k) - medical dialogue dataset v2
-- **[know_medical_dialogues](https://huggingface.co/datasets/knowrohit07/know_medical_dialogues)** (480) - medical dialogue conversations
-- **[know_sql](https://huggingface.co/datasets/knowrohit07/know_sql)** (49.5k) - sql query generation and understanding
-- **[gita_dataset](https://huggingface.co/datasets/knowrohit07/gita_dataset)** (27.4k) - bhagavad gita philosophical text dataset
-
 ## research
 
 we contribute to frontier research in multimodal models, mobile ai, and advanced machine learning systems:
@@ -77,13 +65,7 @@ understanding data flow optimization in distributed systems
 ### [nvidia is a good hardware with meh software to run llms](https://www.srswti.com)
 our perspective on hardware-software optimization challenges in modern llm deployment
 
-## products
 
-### [bodega os](https://www.srswti.com/bodega)
-our consumer-facing operating system bringing advanced ai capabilities to personal computing.
-
-### personal computer
-coming fall 2026
 
 ## connect
 
