@@ -2,10 +2,6 @@
 
 building world's fastest retrieval & inference algorithms
 
-## about us
-
-srswti research labs is focused on pushing the boundaries of computing through open-source research and development. we empower millions of researchers and students to build their own projects, creating more efficient engineering systems and infrastructures that push humanity forward.
-
 # products
 
 ## [bodega os](https://www.srswti.com/bodega)
