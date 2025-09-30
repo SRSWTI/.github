@@ -8,12 +8,12 @@ srswti research labs is focused on pushing the boundaries of computing through o
 
 ## our pillars
 
-## products
+### products
 
-### [bodega os](https://www.srswti.com/bodega)
+#### [bodega os](https://www.srswti.com/bodega)
 our consumer-facing operating system bringing advanced ai capabilities to personal computing.
 
-### personal computer
+#### personal computer
 coming fall 2026
 
 ### open source initiative
