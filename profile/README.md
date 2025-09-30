@@ -6,18 +6,15 @@ building world's fastest retrieval & inference algorithms
 
 srswti research labs is focused on pushing the boundaries of computing through open-source research and development. we empower millions of researchers and students to build their own projects, creating more efficient engineering systems and infrastructures that push humanity forward.
 
-## our pillars
+# products
 
-### products
+## [bodega os](https://www.srswti.com/bodega)
+we built an OS. and yeah you can talk to it, runs locally.  
 
-#### [bodega os](https://www.srswti.com/bodega)
-our consumer-facing operating system bringing advanced ai capabilities to personal computing.
-
-#### personal computer
+## personal computer
 coming fall 2026
 
-### open source initiative
-our open-source research has become foundational for countless projects worldwide, enabling innovation in ai, machine learning, and distributed systems.
+
 
 ## open source projects
 
